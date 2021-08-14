@@ -116,7 +116,7 @@ trackList =
             lrc: "https://joydragonx.github.io/music/lyric/DECADENCE OP FullAMV Theater of Lifeby Konomi Suzuki HD.lrc"
         },
         {
-            name: "伊東歌詞太郎 - 記憶の箱舟",
+            name: "伊東歌詞太郎 - 記憶の箱舟 DECA-DENCE ED",
             artist: "伊東歌詞太郎",
             src: "https://joydragonx.github.io/music/日本歌/伊東歌詞太郎記憶の箱舟TVアニメデカダンスEDテーマMusic Video.mp3",
             lrc: "https://joydragonx.github.io/music/lyric/伊東歌詞太郎記憶の箱舟TVアニメデカダンスEDテーマMusic Video.lrc"
