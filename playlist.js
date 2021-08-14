@@ -107,8 +107,7 @@ trackList =
         {
             name: "中井雅子 - もうすでに失ったもの 重啟咲良田OST",
             artist: "中井雅子",
-            src: "https://joydragonx.github.io/music/日本歌/Sakurada Reset Track 02 What Ive Lost Already Rayons もうすでに失ったもの 重啟咲良田.mp3",
-            lrc: "https://joydragonx.github.io/music/lyric/Sakurada Reset Track 02 What Ive Lost Already Rayons もうすでに失ったもの 重啟咲良田.lrc"
+            src: "https://joydragonx.github.io/music/日本歌/Sakurada Reset Track 02 What Ive Lost Already Rayons もうすでに失ったもの 重啟咲良田.mp3"
         },
         {
             name: "鈴木このみ - Theater of Life DECA-DENCE OP",
