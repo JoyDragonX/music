@@ -161,7 +161,7 @@ trackList =
         {
             name: "TRUE - フロム 末日時在做什麼？有沒有空？可以來拯救嗎？ ED1",
             artist: "TRUE",
-            src: "https://joydragonx.github.io/music/日本歌/TRUE フロム 末日時.mp3",
+            src: "https://joydragonx.github.io/music/日本歌/TRUE  フロム  末日時.mp3",
             lrc: "https://joydragonx.github.io/music/lyric/TRUE フロム 末日時.lrc"
         },
         {
@@ -191,7 +191,7 @@ trackList =
         {
             name: "TRUE - Sincerely 紫羅蘭永恆花園 OP",
             artist: "TRUE Sincerely",
-            src: "https://joydragonx.github.io/music/日本歌/TRUE Sincerely violetevergarden Opning.mp3",
+            src: "https://joydragonx.github.io/music/日本歌/TRUE  Sincerely violetevergarden Opning.mp3",
             lrc: "https://joydragonx.github.io/music/lyric/TRUE Sincerely violetevergarden Opning.lrc"
         },
         {
@@ -263,7 +263,7 @@ trackList =
         {
             name: "Goose house - 光るなら（若能綻放光芒） 四月是你的謊言 OP1",
             artist: "",
-            src: "https://joydragonx.github.io/music/日本歌/四月是你的謊言 OP1 光るなら.mp3",
+            src: "https://joydragonx.github.io/music/日本歌/四月是你的謊言 OP1  光るなら.mp3",
             lrc: "https://joydragonx.github.io/music/lyric/四月是你的謊言 OP1 光るなら.lrc"
         },
         {
@@ -287,31 +287,31 @@ trackList =
         {
             name: "女王蜂 - 火炎 多羅羅 OP",
             artist: "女王蜂",
-            src: "https://joydragonx.github.io/music/日本歌/多羅羅OP 女王蜂 火 中日歌詞.mp3",
+            src: "https://joydragonx.github.io/music/日本歌/多羅羅OP 女王蜂  火 中日歌詞.mp3",
             lrc: "https://joydragonx.github.io/music/lyric/多羅羅OP 女王蜂 火 中日歌詞.lrc"
         },
         {
             name: "amazarashi - さよならごっこ 多羅羅 ED",
             artist: "amazarashi",
-            src: "https://joydragonx.github.io/music/日本歌/多羅羅ED amazarashi さよならごっこ 中日歌詞.mp3",
+            src: "https://joydragonx.github.io/music/日本歌/多羅羅ED amazarashi   さよならごっこ 中日歌詞.mp3.mp3",
             lrc: "https://joydragonx.github.io/music/lyric/多羅羅ED amazarashi さよならごっこ 中日歌詞.lrc"
         },
         {
             name: "中澤伴行 - here and there 奇諾之旅 OP",
             artist: "中澤伴行",
-            src: "https://joydragonx.github.io/music/日本歌/奇諾之旅 OP here and there.mp3",
+            src: "https://joydragonx.github.io/music/日本歌/奇諾之旅 OP  here and there.mp3",
             lrc: "https://joydragonx.github.io/music/lyric/奇諾之旅 OP here and there.lrc"
         },
         {
             name: "出羽良彰 - 砂糖玉の月 奇諾之旅 ED",
             artist: "出羽良彰",
-            src: "https://joydragonx.github.io/music/日本歌/奇諾之旅 ED 砂糖玉の月.mp3",
+            src: "https://joydragonx.github.io/music/日本歌/奇諾之旅 ED  砂糖玉の月.mp3",
             lrc: "https://joydragonx.github.io/music/lyric/奇諾之旅 ED 砂糖玉の月.lrc"
         },
         {
             name: "田中望（赤崎千夏）、菊池茜（戶松遙）、鷺宮詩織（豐崎愛生） -  青春のリバーブ 女高中生的虚度日常 ED",
             artist: "田中望（赤崎千夏）、菊池茜（戶松遙）、鷺宮詩織（豐崎愛生）",
-            src: "https://joydragonx.github.io/music/日本歌/女高中生的虚度日常 ED 青春のリバーブ.mp3",
+            src: "https://joydragonx.github.io/music/日本歌/女高中生的虚度日常 ED  青春のリバーブ.mp3",
             lrc: "https://joydragonx.github.io/music/lyric/女高中生的虚度日常 ED 青春のリバーブ.lrc"
         },
         {
@@ -341,7 +341,7 @@ trackList =
         {
             name: "村川梨衣 - Distance 極道超女 ED",
             artist: "村川梨衣",
-            src: "https://joydragonx.github.io/music/日本歌/村川梨衣 Distance 極道超女ed.mp3",
+            src: "https://joydragonx.github.io/music/日本歌/村川梨衣  Distance 極道超女ed.mp3",
             lrc: "https://joydragonx.github.io/music/lyric/村川梨衣 Distance 極道超女ed.lrc"
         },
         {
@@ -365,8 +365,8 @@ trackList =
         {
             name: "奥華子 - ガーネット 穿越時空的少女 OP",
             artist: "",
-            src: "https://joydragonx.github.io/music/日本歌/穿越時空的少女 主題曲 奥華子 - 「 ガーネット 」.mp3",
-            lrc: "https://joydragonx.github.io/music/lyric/穿越時空的少女 主題曲 奥華子 - 「 ガーネット 」.lrc"
+            src: "https://joydragonx.github.io/music/日本歌/穿越時空的少女 主題曲 奥華子 - 「 ガーネット 」【中日歌詞】.mp3",
+            lrc: "https://joydragonx.github.io/music/lyric/穿越時空的少女 主題曲 奥華子 - 「 ガーネット 」【中日歌詞】.lrc"
         },
         {
             name: "千石撫子（花澤香菜） - 恋愛サーキュレーション（戀愛循環） 化物語 OP",
@@ -383,13 +383,13 @@ trackList =
         {
             name: "nagi - 君の知らない物語 （你不知道的故事） 化物語 ED",
             artist: "nagi",
-            src: "https://joydragonx.github.io/music/日本歌/supercell Kimino Shiranai Monogatari.mp3",
+            src: "https://joydragonx.github.io/music/日本歌/supercell  Kimino Shiranai Monogatari.mp3",
             lrc: "https://joydragonx.github.io/music/lyric/supercell Kimino Shiranai Monogatari.lrc"
         },
         {
             name: "Mili - Rightfully 哥布林殺手 OP",
             artist: "Mili",
-            src: "https://joydragonx.github.io/music/日本歌/哥布林殺手Goblin Slayer OP Mili Rightfully中英字幕.mp3",
+            src: "https://joydragonx.github.io/music/日本歌/哥布林殺手Goblin Slayer OP  Mili  Rightfully中英字幕.mp3",
             lrc: "https://joydragonx.github.io/music/lyric/哥布林殺手Goblin Slayer OP Mili Rightfully中英字幕.lrc"
         },
         {
@@ -407,7 +407,7 @@ trackList =
         {
             name: "flumpool - ちいさな日々 隱瞞之事 OP",
             artist: "flumpool",
-            src: "https://joydragonx.github.io/music/日本歌/隱瞞之事 OP Full ちいさな日々 flumpool.mp3",
+            src: "https://joydragonx.github.io/music/日本歌/隱瞞之事 OP Full  ちいさな日々  flumpool.mp3",
             lrc: "https://joydragonx.github.io/music/lyric/隱瞞之事 OP Full ちいさな日々 flumpool.lrc"
         },
         {
