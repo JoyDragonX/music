@@ -96,7 +96,8 @@ trackList =
             name: "THE ORAL CIGARETTES - トナリアウ 重啟咲良田 ED1",
             artist: "THE ORAL CIGARETTES",
             src: "https://joydragonx.github.io/music/日本歌/トナリアウSakurada Reset ED.mp3",
-            lrc: "https://joydragonx.github.io/music/lyric/トナリアウSakurada Reset ED.lrc"
+            lrc: "https://joydragonx.github.io/music/lyric/トナリアウSakurada Reset ED.lrc",
+            offset: 0.3
         },
         {
             name: "牧野由依 - Colors of happiness 重啟咲良田 ED2",
