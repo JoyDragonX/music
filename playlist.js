@@ -63,8 +63,8 @@ trackList =
         {
             name: "蘇打綠 - 燕窩",
             artist: "蘇打綠",
-            src: "https://joydragonx.github.io/music/中文歌/.mp3",
-            lrc: "https://joydragonx.github.io/music/lyric/.lrc"
+            src: "https://joydragonx.github.io/music/中文歌/蘇打綠 sodagreen -【燕窩】Official Music Video.mp3",
+            lrc: "https://joydragonx.github.io/music/lyric/蘇打綠 sodagreen -【燕窩】Official Music Video.lrc"
         },
         {
             name: "蘇打綠 - 說了再見以後",
