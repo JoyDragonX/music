@@ -37,7 +37,7 @@ trackList =
             lrc: "https://joydragonx.github.io/music/lyric/蘇打綠 sodagreen -【再遇見】Official Music Video.mp3.lrc"
         },
         {
-            name: "蘇打綠 sodagreen -【十年一刻】Official Music Video.mp3",
+            name: "蘇打綠 - 十年一刻",
             artist: "蘇打綠",
             src: "https://joydragonx.github.io/music/中文歌/蘇打綠 sodagreen -【十年一刻】Official Music Video.mp3.mp3",
             lrc: "https://joydragonx.github.io/music/lyric/蘇打綠 sodagreen -【十年一刻】Official Music Video.mp3.lrc"
