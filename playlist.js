@@ -89,7 +89,8 @@ trackList =
             name: "WEAVER - だから僕は僕を手放す 重啟咲良田 OP2",
             artist: "WEAVER",
             src: "https://joydragonx.github.io/music/日本歌/Sakurada Reset OP2WEAVER  Dakara Boku wa Boku wo Tebanasuだから僕は僕を手放す.mp3",
-            lrc: "https://joydragonx.github.io/music/lyric/Sakurada Reset OP2WEAVER  Dakara Boku wa Boku wo Tebanasuだから僕は僕を手放す.lrc"
+            lrc: "https://joydragonx.github.io/music/lyric/Sakurada Reset OP2WEAVER  Dakara Boku wa Boku wo Tebanasuだから僕は僕を手放す.lrc",
+            offset: 1.15
         },
         {
             name: "山中拓也 - トナリアウ 重啟咲良田 ED1",
