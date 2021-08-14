@@ -451,5 +451,35 @@ trackList =
             artist: "美波",
             src: "https://joydragonx.github.io/music/日本歌/美波カワキヲアメクMV.mp3",
             lrc: "https://joydragonx.github.io/music/lyric/美波カワキヲアメクMV.lrc"
+        },
+        {
+            name: "Charlie Puth - We Dont Talk Anymore",
+            artist: "Charlie Puth",
+            src: "https://joydragonx.github.io/music/英文歌/Charlie Puth - We Dont Talk Anymore (feat. Selena Gomez) [Official Video].mp3",
+            lrc: "https://joydragonx.github.io/music/lyric/Charlie Puth - We Dont Talk Anymore (feat. Selena Gomez) [Official Video].lrc"
+        },
+        {
+            name: "Imagine Dragons - Demons",
+            artist: "Imagine Dragons",
+            src: "https://joydragonx.github.io/music/英文歌/Imagine Dragons - Demons (Official Video).mp3",
+            lrc: "https://joydragonx.github.io/music/lyric/Imagine Dragons - Demons (Official Video).lrc"
+        },
+        {
+            name: "Maroon 5 - Memories",
+            artist: "Maroon 5",
+            src: "https://joydragonx.github.io/music/英文歌/Maroon 5 - Memories.mp3",
+            lrc: "https://joydragonx.github.io/music/lyric/Maroon 5 - Memories.lrc"
+        },
+        {
+            name: "One Direction - What Makes You Beautiful",
+            artist: "One Direction",
+            src: "https://joydragonx.github.io/music/英文歌/One Direction - What Makes You Beautiful (Official Video).mp3",
+            lrc: "https://joydragonx.github.io/music/lyric/One Direction - What Makes You Beautiful (Official Video).lrc"
+        },
+        {
+            name: "OneRepublic - Counting Stars",
+            artist: "OneRepublic - Counting Stars",
+            src: "https://joydragonx.github.io/music/英文歌/OneRepublic - Counting Stars.mp3",
+            lrc: "https://joydragonx.github.io/music/lyric/OneRepublic - Counting Stars.lrc"
         }
     ];
