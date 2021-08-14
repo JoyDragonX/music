@@ -93,8 +93,8 @@ trackList =
             offset: 1.15
         },
         {
-            name: "山中拓也 - トナリアウ 重啟咲良田 ED1",
-            artist: "山中拓也",
+            name: "THE ORAL CIGARETTES - トナリアウ 重啟咲良田 ED1",
+            artist: "THE ORAL CIGARETTES",
             src: "https://joydragonx.github.io/music/日本歌/トナリアウSakurada Reset ED.mp3",
             lrc: "https://joydragonx.github.io/music/lyric/.lrc"
         },
