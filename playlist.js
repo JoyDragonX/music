@@ -82,7 +82,8 @@ trackList =
             name: "牧野由依 - Reset 重啟咲良田 OP1",
             artist: "牧野由依",
             src: "https://joydragonx.github.io/music/日本歌/牧野由依 Reset.mp3",
-            lrc: "https://joydragonx.github.io/music/lyric/牧野由依 Reset.lrc"
+            lrc: "https://joydragonx.github.io/music/lyric/牧野由依 Reset.lrc",
+            offset: -0.4
         },
         {
             name: "WEAVER - だから僕は僕を手放す 重啟咲良田 OP2",
