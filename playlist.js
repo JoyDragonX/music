@@ -33,8 +33,8 @@ trackList =
         {
             name: "蘇打綠 - 再遇見",
             artist: "蘇打綠",
-            src: "https://joydragonx.github.io/music/中文歌/蘇打綠 sodagreen -【再遇見】Official Music Video.mp3.mp3",
-            lrc: "https://joydragonx.github.io/music/lyric/蘇打綠 sodagreen -【再遇見】Official Music Video.mp3.lrc"
+            src: "https://joydragonx.github.io/music/中文歌/蘇打綠 sodagreen -【再遇見】Official Music Video.mp3",
+            lrc: "https://joydragonx.github.io/music/lyric/蘇打綠 sodagreen -【再遇見】Official Music Video.lrc"
         },
         {
             name: "蘇打綠 - 十年一刻",
