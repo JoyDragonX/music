@@ -174,7 +174,7 @@ trackList =
             name: "加藤達也 - Always in my heart 末日時在做什麼？有沒有空？可以來拯救嗎？ OST2",
             artist: "加藤達也",
             src: "https://joydragonx.github.io/music/日本歌/末日時在做什麼插曲Always in my heart.mp3",
-            lrc: "https://joydragonx.github.io/music/lyric/末日時在做什麼插曲Always in my heart.lrc" // 16
+            lrc: "https://joydragonx.github.io/music/lyric/末日時在做什麼插曲Always in my heart.lrc"
         },
         {
             name: "ChouCho - 優しさの理由 冰菓 OP",
@@ -204,7 +204,7 @@ trackList =
             name: "TRUE - LETTER 紫羅蘭永恆花園 OST",
             artist: "TRUE",
             src: "https://joydragonx.github.io/music/日本歌/紫羅蘭 LETTER.mp3",
-            lrc: "https://joydragonx.github.io/music/lyric/紫羅蘭 LETTER.lrc" // 21
+            lrc: "https://joydragonx.github.io/music/lyric/紫羅蘭 LETTER.lrc"
         },
         {
             name: "YOASOBI - 夜に駆ける",
@@ -282,7 +282,7 @@ trackList =
             name: "7!! - オレンジ（橙色）",
             artist: "7!!",
             src: "https://joydragonx.github.io/music/日本歌/四月是你的謊言ed オレンジ.mp3",
-            lrc: "https://joydragonx.github.io/music/lyric/四月是你的謊言ed オレンジ.lrc"  // 34
+            lrc: "https://joydragonx.github.io/music/lyric/四月是你的謊言ed オレンジ.lrc"
         },
         {
             name: "女王蜂 - 火炎 多羅羅 OP",
@@ -306,7 +306,7 @@ trackList =
             name: "出羽良彰 - 砂糖玉の月 奇諾之旅 ED",
             artist: "出羽良彰",
             src: "https://joydragonx.github.io/music/日本歌/奇諾之旅 ED 砂糖玉の月.mp3",
-            lrc: "https://joydragonx.github.io/music/lyric/奇諾之旅 ED 砂糖玉の月.lrc"    // 38
+            lrc: "https://joydragonx.github.io/music/lyric/奇諾之旅 ED 砂糖玉の月.lrc"
         },
         {
             name: "田中望（赤崎千夏）、菊池茜（戶松遙）、鷺宮詩織（豐崎愛生） -  青春のリバーブ 女高中生的虚度日常 ED",
@@ -354,7 +354,7 @@ trackList =
             name: "藤川千愛 - バケモノと呼ばれて (被稱之為怪物) 無能力者娜娜 ED",
             artist: "藤川千愛",
             src: "https://joydragonx.github.io/music/日本歌/無能力者娜娜『ED』バケモノと呼ばれて (被稱之為怪物).mp3",
-            lrc: "https://joydragonx.github.io/music/lyric/無能力者娜娜『ED』バケモノと呼ばれて (被稱之為怪物).lrc"  //46
+            lrc: "https://joydragonx.github.io/music/lyric/無能力者娜娜『ED』バケモノと呼ばれて (被稱之為怪物).lrc"
         },
         {
             name: "湘南乃風 - Grand Blue 碧藍之海 OP",
@@ -402,7 +402,7 @@ trackList =
             name: "HAPPY BIRTHDAY - 君だったら",
             artist: "HAPPY BIRTHDAY",
             src: "https://joydragonx.github.io/music/日本歌/超好聽的日語歌曲——《君だったら》HAPPY BIRTHDAY.mp3",
-            lrc: "https://joydragonx.github.io/music/lyric/超好聽的日語歌曲——《君だったら》HAPPY BIRTHDAY.lrc"     // 54
+            lrc: "https://joydragonx.github.io/music/lyric/超好聽的日語歌曲——《君だったら》HAPPY BIRTHDAY.lrc"
         },
         {
             name: "flumpool - ちいさな日々 隱瞞之事 OP",
