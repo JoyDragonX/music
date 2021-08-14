@@ -293,7 +293,7 @@ trackList =
         {
             name: "amazarashi - さよならごっこ 多羅羅 ED",
             artist: "amazarashi",
-            src: "https://joydragonx.github.io/music/日本歌/多羅羅ED amazarashi   さよならごっこ 中日歌詞.mp3.mp3",
+            src: "https://joydragonx.github.io/music/日本歌/多羅羅ED amazarashi   さよならごっこ 中日歌詞.mp3",
             lrc: "https://joydragonx.github.io/music/lyric/多羅羅ED amazarashi さよならごっこ 中日歌詞.lrc"
         },
         {
