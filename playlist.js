@@ -77,5 +77,5 @@ trackList =
             artist: "蘇打綠",
             src: "https://joydragonx.github.io/music/中文歌/蘇打綠 sodagreen -【近未來】Official Music Video.mp3",
             lrc: "https://joydragonx.github.io/music/中文歌/蘇打綠 sodagreen -【近未來】Official Music Video.lrc"
-        },
+        }
     ];
