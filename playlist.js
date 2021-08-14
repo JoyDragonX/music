@@ -436,9 +436,20 @@ trackList =
         },
         {
             name: "あいみょん - 空の青さを知る人よ 知道天空有多藍的人啊 OP",
-            artist: "",
+            artist: "あいみょん",
             src: "https://joydragonx.github.io/music/日本歌/動畫電影【知道天空有多藍的人啊】主題曲 あいみょん -「 空の青さを知る人よ 」【中日歌詞】.mp3",
             lrc: "https://joydragonx.github.io/music/lyric/動畫電影【知道天空有多藍的人啊】主題曲 あいみょん -「 空の青さを知る人よ 」【中日歌詞】.lrc"
         },
-        
+        {
+            name: "美波 - アメヲマツ",
+            artist: "美波",
+            src: "https://joydragonx.github.io/music/日本歌/美波アメヲマツMV.mp3",
+            lrc: "https://joydragonx.github.io/music/lyric/美波アメヲマツMV.lrc"
+        },
+        {
+            name: "美波 - カワキヲアメク 家有女友 op",
+            artist: "美波",
+            src: "https://joydragonx.github.io/music/日本歌/美波カワキヲアメクMV.mp3",
+            lrc: "https://joydragonx.github.io/music/lyric/美波カワキヲアメクMV.lrc"
+        }
     ];
