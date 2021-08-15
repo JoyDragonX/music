@@ -354,7 +354,8 @@ trackList =
             name: "藤川千愛 - バケモノと呼ばれて (被稱之為怪物) 無能力者娜娜 ED",
             artist: "藤川千愛",
             src: "https://joydragonx.github.io/music/日本歌/無能力者娜娜『ED』バケモノと呼ばれて (被稱之為怪物).mp3",
-            lrc: "https://joydragonx.github.io/music/lyric/無能力者娜娜『ED』バケモノと呼ばれて (被稱之為怪物).lrc"
+            lrc: "https://joydragonx.github.io/music/lyric/無能力者娜娜『ED』バケモノと呼ばれて (被稱之為怪物).lrc",
+            offset: -0.4
         },
         {
             name: "湘南乃風 - Grand Blue 碧藍之海 OP",
