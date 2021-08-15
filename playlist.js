@@ -390,7 +390,8 @@ trackList =
             name: "Mili - Rightfully 哥布林殺手 OP",
             artist: "Mili",
             src: "https://joydragonx.github.io/music/日本歌/哥布林殺手Goblin Slayer OP  Mili  Rightfully中英字幕.mp3",
-            lrc: "https://joydragonx.github.io/music/lyric/哥布林殺手Goblin Slayer OP Mili Rightfully中英字幕.lrc"
+            lrc: "https://joydragonx.github.io/music/lyric/哥布林殺手Goblin Slayer OP Mili Rightfully中英字幕.lrc",
+            offset: -1
         },
         {
             name: "蒼井翔太 - BAD END 轉生成女性向遊戲只有毀滅END的壞人大小姐 ED",
