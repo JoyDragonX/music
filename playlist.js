@@ -384,7 +384,8 @@ trackList =
             name: "nagi - 君の知らない物語 （你不知道的故事） 化物語 ED",
             artist: "nagi",
             src: "https://joydragonx.github.io/music/日本歌/supercell  Kimino Shiranai Monogatari.mp3",
-            lrc: "https://joydragonx.github.io/music/lyric/supercell Kimino Shiranai Monogatari.lrc"
+            lrc: "https://joydragonx.github.io/music/lyric/supercell Kimino Shiranai Monogatari.lrc",
+            offset: 11.5
         },
         {
             name: "Mili - Rightfully 哥布林殺手 OP",
