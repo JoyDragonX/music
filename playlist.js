@@ -396,7 +396,7 @@ trackList =
         {
             name: "蒼井翔太 - BAD END 轉生成女性向遊戲只有毀滅END的壞人大小姐 ED",
             artist: "蒼井翔太",
-            src: "https://joydragonx.github.io/music/日本歌/Bad End Shouta Aoi ED My Next Life As A Villainess.mp3",
+            src: "https://joydragonx.github.io/music/日本歌/Bad End Shouta Aoi  ED My Next Life As A Villainess.mp3",
             lrc: "https://joydragonx.github.io/music/lyric/蒼井翔太 BAD END.lrc"
         },
         {
