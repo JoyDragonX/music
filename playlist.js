@@ -309,6 +309,30 @@ trackList =
             lrc: "https://joydragonx.github.io/music/lyric/奇諾之旅 ED 砂糖玉の月.lrc"
         },
         {
+            name: "Survive Said The Prophet - MUKANJYO 海盜戰記 OP1",
+            artist: "Survive Said The Prophet",
+            src: "https://joydragonx.github.io/music/日本歌/Survive Said The Prophet - MUKANJYO 海盜戰記 OP1.mp3",
+            lrc: "https://joydragonx.github.io/music/lyric/Survive Said The Prophet - MUKANJYO 海盜戰記 OP1.lrc"
+        },
+        {
+            name: "Aimer - Torches 海盜戰記 ED1",
+            artist: "Aimer",
+            src: "https://joydragonx.github.io/music/日本歌/Aimer - Torches 海盜戰記 ED1.mp3",
+            lrc: "https://joydragonx.github.io/music/lyric/Aimer - Torches 海盜戰記 ED1.lrc"
+        },
+        {
+            name: "MAN WITH A MISSION - Dark Crow 海盜戰記 OP2",
+            artist: "MAN WITH A MISSION",
+            src: "https://joydragonx.github.io/music/日本歌/MAN WITH A MISSION - Dark Crow 海盜戰記 OP2.mp3",
+            lrc: "https://joydragonx.github.io/music/lyric/MAN WITH A MISSION - Dark Crow 海盜戰記 OP2.lrc"
+        },
+        {
+            name: "milet - Drown 海盜戰記 ED2.mp3",
+            artist: "milet",
+            src: "https://joydragonx.github.io/music/日本歌/milet - Drown 海盜戰記 ED2.mp3",
+            lrc: "https://joydragonx.github.io/music/lyric/milet - Drown 海盜戰記 ED2.mp3.lrc"
+        },
+        {
             name: "田中望（赤崎千夏）、菊池茜（戶松遙）、鷺宮詩織（豐崎愛生） -  青春のリバーブ 女高中生的虚度日常 ED",
             artist: "田中望（赤崎千夏）、菊池茜（戶松遙）、鷺宮詩織（豐崎愛生）",
             src: "https://joydragonx.github.io/music/日本歌/女高中生的虚度日常 ED  青春のリバーブ.mp3",
